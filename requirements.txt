@@ -1,0 +1,29 @@
+# Core ML
+torch==2.10.0
+torchvision==0.25.0
+torchaudio==2.10.0
+
+# Transformers & training
+transformers==4.57.6
+trl==1.1.0
+peft==0.18.1
+accelerate==1.13.0
+datasets==4.8.4
+
+# vLLM inference
+vllm==0.19.0
+flashinfer-python==0.6.6
+
+# Qwen-VL utilities
+qwen-vl-utils==0.0.14
+einops==0.8.2
+
+# Experiment tracking
+wandb==0.26.0
+
+# Visualization
+matplotlib==3.10.8
+SciencePlots==2.2.1
+numpy==2.2.6
+Pillow==12.1.1
+tqdm==4.67.3
